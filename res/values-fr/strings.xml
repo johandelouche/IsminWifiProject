@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ismin Wifi</string>
+    <string name="menu_settings">Options</string>
+    <string name="title_activity_main">MainActivity</string>
+	<string name="password">Mot de passe</string>
+    <string name="username">Nom d\'utilisateur</string>
+     <string name="connection">Connexion</string>
+     <string name="connection_succeeded">Connexion réussie</string>
+     <string name="remember_me">Se souvenir de moi</string>
+     <string name="empty_fields">Champs vides</string>
+     <string name="warning">Vous n\'êtes pas connecté à INVITE ou ELEVES</string>
+     <string name="auto_connection">Connexion automatique</string>
+     <string name="auto_connect_on">La connexion automatique est activée.</string>
+     <string name="problem">Un problème est survenu pendant la connexion. Peut être êtes vous déjà connecté. Essaye d\'éteindre puis de rallumer le WiFi et essayez de nouveau.</string>	
+</resources>
